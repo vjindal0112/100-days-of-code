@@ -28,3 +28,12 @@
 
 **Link(s) to work**
 1. [Drum Fills App](https://github.com/vjindal0112/DrumFillsApp/commit/6bb075eb2aefd88938a1af27d704f60c3e479d80)
+
+### Day 2: June 28, Monday
+
+**Today's Progress**: Understood cors and security policies, successfully got json from both iTunes and audiodb api's. Both are insufficient.
+
+**Thoughts** API calls are making a ton more sense now. Need to look into spotify api with possible flask server for auth?
+
+**Link(s) to work**
+1. [Drum Fills App](https://github.com/vjindal0112/DrumFillsApp/commit/7bbe317aaf1264d9354c88480b4c287ff1a41dd8)
