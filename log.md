@@ -19,3 +19,12 @@
 
 **Link(s) to work**
 1. [Drum Fills App](https://github.com/vjindal0112/DrumFillsApp/commit/02afb3e220678fdbbd67d8596771954fadefe9da)
+
+### Day 2: June 28, Monday
+
+**Today's Progress**: Was able to create a stateful component and got input from an input. Learned the basics of hooks, don't totally understand them yet.
+
+**Thoughts** Getting some cors error for fetching, need to look into that. This is fun, gotta stick with this long term. Hope to get some data soon.
+
+**Link(s) to work**
+1. [Drum Fills App](https://github.com/vjindal0112/DrumFillsApp/commit/6bb075eb2aefd88938a1af27d704f60c3e479d80)
