@@ -29,7 +29,7 @@
 **Link(s) to work**
 1. [Drum Fills App](https://github.com/vjindal0112/DrumFillsApp/commit/6bb075eb2aefd88938a1af27d704f60c3e479d80)
 
-### Day 2: June 28, Monday
+### Day 3: June 29, Monday
 
 **Today's Progress**: Understood cors and security policies, successfully got json from both iTunes and audiodb api's. Both are insufficient.
 
