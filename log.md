@@ -11,7 +11,7 @@
 **Link(s) to work**: [Calculator App](http://www.example.com) -->
 
 
-### Day 1: June 27, Monday
+### Day 1: June 27, Tuesday
 
 **Today's Progress**: Created new create-react-app with Bulma to test the iTunes api. Started reading the react documentation from the very beginning. Learning by doing worked only to a point. I'm still confused so reading the conceptual guide should help clarify everything.
 
@@ -20,7 +20,7 @@
 **Link(s) to work**
 1. [Drum Fills App](https://github.com/vjindal0112/DrumFillsApp/commit/02afb3e220678fdbbd67d8596771954fadefe9da)
 
-### Day 2: June 28, Monday
+### Day 2: June 28, Wednesday
 
 **Today's Progress**: Was able to create a stateful component and got input from an input. Learned the basics of hooks, don't totally understand them yet.
 
@@ -29,7 +29,7 @@
 **Link(s) to work**
 1. [Drum Fills App](https://github.com/vjindal0112/DrumFillsApp/commit/6bb075eb2aefd88938a1af27d704f60c3e479d80)
 
-### Day 3: June 29, Monday
+### Day 3: June 29, Thursday
 
 **Today's Progress**: Understood cors and security policies, successfully got json from both iTunes and audiodb api's. Both are insufficient.
 
@@ -37,3 +37,12 @@
 
 **Link(s) to work**
 1. [Drum Fills App](https://github.com/vjindal0112/DrumFillsApp/commit/7bbe317aaf1264d9354c88480b4c287ff1a41dd8)
+
+### Day 4: June 30, Friday
+
+**Today's Progress**: Read a little about post requests and the spotify API. Learned what a promise in React is.
+
+**Thoughts**: Today was a bit of a slow day. Had to fit in time during dance practice which didn't end in much efficiency. Hope to make more tangible progress tomorrow.  
+
+**Link(s) to work**
+1. [Drum Fills App]()
