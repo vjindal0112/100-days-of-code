@@ -55,3 +55,12 @@
 
 **Link(s) to work**
 1. [Drum Fills App](https://github.com/vjindal0112/DrumFillsApp/commit/cae28b25f91fa8bb906c13fed1a0c783222932fe)
+
+### Day 6: October 20, Sunday
+
+**Today's Progress**: Tried some more things for post requests. Not understanding how it works. Definitely getting closer.
+
+**Thoughts**: I'm going to ask an experienced friend about this.
+
+**Link(s) to work**
+1. [Drum Fills App](https://github.com/vjindal0112/DrumFillsApp/commit/b409488c5788e0ab3b740316a4f81d0114b64841)
