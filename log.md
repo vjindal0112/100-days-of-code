@@ -11,7 +11,7 @@
 **Link(s) to work**: [Calculator App](http://www.example.com) -->
 
 
-### Day 1: June 27, Tuesday
+### Day 1: October 15, Tuesday
 
 **Today's Progress**: Created new create-react-app with Bulma to test the iTunes api. Started reading the react documentation from the very beginning. Learning by doing worked only to a point. I'm still confused so reading the conceptual guide should help clarify everything.
 
@@ -20,7 +20,7 @@
 **Link(s) to work**
 1. [Drum Fills App](https://github.com/vjindal0112/DrumFillsApp/commit/02afb3e220678fdbbd67d8596771954fadefe9da)
 
-### Day 2: June 28, Wednesday
+### Day 2: October 16, Wednesday
 
 **Today's Progress**: Was able to create a stateful component and got input from an input. Learned the basics of hooks, don't totally understand them yet.
 
@@ -29,7 +29,7 @@
 **Link(s) to work**
 1. [Drum Fills App](https://github.com/vjindal0112/DrumFillsApp/commit/6bb075eb2aefd88938a1af27d704f60c3e479d80)
 
-### Day 3: June 29, Thursday
+### Day 3: October 17, Thursday
 
 **Today's Progress**: Understood cors and security policies, successfully got json from both iTunes and audiodb api's. Both are insufficient.
 
@@ -38,7 +38,7 @@
 **Link(s) to work**
 1. [Drum Fills App](https://github.com/vjindal0112/DrumFillsApp/commit/7bbe317aaf1264d9354c88480b4c287ff1a41dd8)
 
-### Day 4: June 30, Friday
+### Day 4: October 18, Friday
 
 **Today's Progress**: Read a little about post requests and the spotify API. Learned what a promise in React is.
 
@@ -46,3 +46,12 @@
 
 **Link(s) to work**
 1. [Drum Fills App](https://github.com/vjindal0112/DrumFillsApp/commit/c8d7916b16b0482354be68d78cde13fb856e9492)
+
+### Day 5: October 19, Saturday
+
+**Today's Progress**: Spun my wheels a little with client-side post requests, read more and tried a couple things
+
+**Thoughts**: Not much progress, need to experiment more with post requests
+
+**Link(s) to work**
+1. [Drum Fills App](https://github.com/vjindal0112/DrumFillsApp/commit/cae28b25f91fa8bb906c13fed1a0c783222932fe)
