@@ -58,9 +58,10 @@
 
 ### Day 6: October 20, Sunday
 
-**Today's Progress**: Tried some more things for post requests. Not understanding how it works. Definitely getting closer.
+**Today's Progress**: Figured out that post requests to the Spotify API from the client-side are blocked. Would need to make server-side calls for it to work. Also learned what Postman does.
 
-**Thoughts**: I'm going to ask an experienced friend about this.
+**Thoughts**: Thanks to Samay, I am out of the rut.
 
 **Link(s) to work**
 1. [Drum Fills App](https://github.com/vjindal0112/DrumFillsApp/commit/b409488c5788e0ab3b740316a4f81d0114b64841)
+2. [Drum Fills App](https://github.com/vjindal0112/DrumFillsApp/commit/08c6a1c8d85c953fefd7969b39e265b0e0906d5d)
