@@ -65,3 +65,9 @@
 **Link(s) to work**
 1. [Drum Fills App](https://github.com/vjindal0112/DrumFillsApp/commit/b409488c5788e0ab3b740316a4f81d0114b64841)
 2. [Drum Fills App](https://github.com/vjindal0112/DrumFillsApp/commit/08c6a1c8d85c953fefd7969b39e265b0e0906d5d)
+
+### Day 7: October 21, Monday
+
+**Today's Progress**: Finally was able to get all Spotify api calls to work. Unfortunately it seems that Spotify does not allow one to get the genre of a track using their api. However, many other metrics are available. Tons of song analysis and metrics that could possibly identify fills anyway.
+
+**Thoughts**: Not having the genre is a big hit. Might have to look into how to analyze a song to get the genre.
