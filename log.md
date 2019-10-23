@@ -71,3 +71,13 @@
 **Today's Progress**: Finally was able to get all Spotify api calls to work. Unfortunately it seems that Spotify does not allow one to get the genre of a track using their api. However, many other metrics are available. Tons of song analysis and metrics that could possibly identify fills anyway.
 
 **Thoughts**: Not having the genre is a big hit. Might have to look into how to analyze a song to get the genre.
+
+### Day 8: October 22, Tuesday
+
+**Today's Progress**: Applied for my app to be on the ArtsEngin newsletter. Hope to talk to some drummers soon. Today, I started a flask server app for fun. I read a little about CRUD applications, a little about react-router, and a little about flask requests. Wasn't able to implement any of it yet.
+
+**Thoughts**: Struggled a little to figure out what I wanted to work on. Should plan out my hour of code so I am more efficient during it. Need to set more action-ables.
+
+*Link(s) to work**
+1. [Drum Fills App](https://github.com/vjindal0112/DrumFillsApp/commit/2a3d5558adbfe9b4b1c30bc7317ff9e63ae17ed2)
+2. [Server-Side Drum Fills App](https://github.com/vjindal0112/Server-Side-Drum-Fills-App/commit/38a158d49a4b7bad212b4bd872d062b48e34b64e)
