@@ -81,3 +81,12 @@
 *Link(s) to work**
 1. [Drum Fills App](https://github.com/vjindal0112/DrumFillsApp/commit/2a3d5558adbfe9b4b1c30bc7317ff9e63ae17ed2)
 2. [Server-Side Drum Fills App](https://github.com/vjindal0112/Server-Side-Drum-Fills-App/commit/38a158d49a4b7bad212b4bd872d062b48e34b64e)
+
+### Day 8: October 22, Tuesday
+
+**Today's Progress**: Completed an algorithm to check whether a Sudoku grid is valid or not. Checks for numbers being in range and for repeated numbers in wrong places.
+
+**Thoughts**: Brute forced it mostly. Was able to utilize sets to make for faster checking of <element> in <set>
+
+*Link(s) to work**
+1. [LeetCode Solutions](https://github.com/vjindal0112/LeetCodeSolutions/commit/76fc027eac169769154b4f6d98b4a0b4eafe6a8d)
