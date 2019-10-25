@@ -82,7 +82,7 @@
 1. [Drum Fills App](https://github.com/vjindal0112/DrumFillsApp/commit/2a3d5558adbfe9b4b1c30bc7317ff9e63ae17ed2)
 2. [Server-Side Drum Fills App](https://github.com/vjindal0112/Server-Side-Drum-Fills-App/commit/38a158d49a4b7bad212b4bd872d062b48e34b64e)
 
-### Day 8: October 22, Tuesday
+### Day 9: October 23, Wednesday
 
 **Today's Progress**: Completed an algorithm to check whether a Sudoku grid is valid or not. Checks for numbers being in range and for repeated numbers in wrong places.
 
@@ -90,3 +90,12 @@
 
 *Link(s) to work**
 1. [LeetCode Solutions](https://github.com/vjindal0112/LeetCodeSolutions/commit/76fc027eac169769154b4f6d98b4a0b4eafe6a8d)
+
+### Day 10: October 24, Thursday
+
+**Today's Progress**: Read and introduced myself to Binary Search Trees. Also, set up a phone call with a drummer and have another potential phone call.
+
+**Thoughts**: Binary Search Trees are a super interesting data structure. I still do not know why they are used or what they are used for. Lots more to learn. Also need to map out what I want to ask each of the drummers I talk to.
+
+*Link(s) to work**
+1. [LeetCode Solutions](https://github.com/vjindal0112/LeetCodeSolutions/commit/a3f1913a85173a0f035e583e95ab2e7f4fea0b4f)
