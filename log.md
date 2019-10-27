@@ -99,3 +99,13 @@
 
 *Link(s) to work**
 1. [LeetCode Solutions](https://github.com/vjindal0112/LeetCodeSolutions/commit/a3f1913a85173a0f035e583e95ab2e7f4fea0b4f)
+
+### Day 11: October 26, Saturday
+
+**Today's Progress**: Set up a phone call with another drummer. Also learned a little more about Binary Search Trees. Did an Easy LeetCode problem as well.
+
+**Thoughts**: The Easy LeetCode problem took longer than expected. I should read up on more algorithms and data structures.
+
+*Link(s) to work**
+1. [LeetCode Solutions](https://github.com/vjindal0112/LeetCodeSolutions/commit/68af46c309c391aa46a390634fe83307179c87d1)
+2. [LeetCode Solutions](https://github.com/vjindal0112/LeetCodeSolutions/commit/70bd2486c1a4d39ef5df4210fae14d305e9f54f3)
