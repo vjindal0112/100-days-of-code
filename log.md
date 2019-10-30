@@ -109,3 +109,24 @@
 *Link(s) to work**
 1. [LeetCode Solutions](https://github.com/vjindal0112/LeetCodeSolutions/commit/68af46c309c391aa46a390634fe83307179c87d1)
 2. [LeetCode Solutions](https://github.com/vjindal0112/LeetCodeSolutions/commit/70bd2486c1a4d39ef5df4210fae14d305e9f54f3)
+
+### Day 12: October 27, Sunday
+
+**Today's Progress**: Learned about the python collections library a bit and implemented a hash map algorithm on HackerRank.
+
+**Thoughts**: Collections library is pretty cool, defaultdict makes hash map creation very simple
+
+### Day 13: October 28, Monday
+
+**Today's Progress**: After looking over my notes from my conversations with drummers, I might pivot my app to be more of a learning repository with the most influential drum solos and transcriptions of solos / marching band rhythms.
+
+**Thoughts**: Need to talk to even more drummers.
+
+### Day 14: October 29, Tuesday
+
+**Today's Progress**: Created my first chrome extension today! Able to get options page and changing body background color functionality.
+
+**Thoughts**: Hopefully can continue with this with Reflect (our project for MHacks). Currently Drum App is on hold until further ideation - maybe flesh out more with Ben from Compology?
+
+*Link(s) to work**
+1. [LeetCode Solutions](https://github.com/vjindal0112/Reflect-Chrome-Extension/commit/5c41f29005599e540d3f8d6169bfb3eb125e25fb)
