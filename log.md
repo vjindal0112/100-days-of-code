@@ -130,3 +130,24 @@
 
 *Link(s) to work**
 1. [LeetCode Solutions](https://github.com/vjindal0112/Reflect-Chrome-Extension/commit/5c41f29005599e540d3f8d6169bfb3eb125e25fb)
+
+### Day 15: October 30, Wednesday
+
+**Today's Progress**: Started flushing out a startup idea for MBC. Feeling good because our idea seems to have a market as indicated by a similar business that recently raised 21 mil. Additionally learned what Whitepapers and about the ecosystem of the block chain space.
+
+**Thoughts**: David Sun is so knowledgable. It was so fun to talk to him for an hour and a half at Shift.
+
+### Day 16: October 31, Thursday
+
+**Today's Progress**: Started to understand our intended market better for our MBC idea. Learned what sandboxing is for code. Learned a little about NumPy. Failed to install gVisor - needed to chown to root. Might explore another installation method.
+
+**Thoughts**: I'm learning a ton from MBC.
+
+### Day 17: November 2, Saturday
+
+**Today's Progress**: Created another Chrome Extension, this one was a simple person media site launcher. It looks pretty nice.
+
+**Thoughts**: Starting to understand the architecture of Chrome Extensions. Going to try to get some timing of web pages done tomorrow.
+
+*Link(s) to work**
+1. [LeetCode Solutions](https://github.com/vjindal0112/learning-projects/commit/dfa61ca5b832f25e293cc9860474be8c2d27ca14)
