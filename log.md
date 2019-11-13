@@ -129,7 +129,7 @@
 **Thoughts**: Hopefully can continue with this with Reflect (our project for MHacks). Currently Drum App is on hold until further ideation - maybe flesh out more with Ben from Compology?
 
 *Link(s) to work**
-1. [LeetCode Solutions](https://github.com/vjindal0112/Reflect-Chrome-Extension/commit/5c41f29005599e540d3f8d6169bfb3eb125e25fb)
+1. [Google Chrome Extension Tutorial](https://github.com/vjindal0112/Reflect-Chrome-Extension/commit/5c41f29005599e540d3f8d6169bfb3eb125e25fb)
 
 ### Day 15: October 30, Wednesday
 
@@ -150,4 +150,52 @@
 **Thoughts**: Starting to understand the architecture of Chrome Extensions. Going to try to get some timing of web pages done tomorrow.
 
 *Link(s) to work**
-1. [LeetCode Solutions](https://github.com/vjindal0112/learning-projects/commit/dfa61ca5b832f25e293cc9860474be8c2d27ca14)
+1. [Launcher Chrome Extension](https://github.com/vjindal0112/learning-projects/commit/dfa61ca5b832f25e293cc9860474be8c2d27ca14)
+
+### Day 18: November 4, Monday
+
+**Today's Progress**: Learned some more about Chrome Extension Architecture. Learned tons about the Stock market from Yash Pande, including ETF funds, IPOs, shorting stocks, market cap, different sectors, quants, general trends and more. Also called up Srdjan, it was nice to reconnect with him and Prakash.
+
+**Thoughts**: Yash is so knowledgable about this stuff. Very cool to talk to him.
+
+### Day 19: November 5, Tuesday
+
+**Today's Progress**: Started my own custom Chrome Extension. Learned how tabId works, how to test background scripts, and more about event handlers.
+
+**Thoughts**: Will try to figure out more with timing tomorrow.
+
+*Link(s) to work**
+1. [Custom Chrome Extension](https://github.com/vjindal0112/learning-projects/commit/c800f35011401ae3b508950962e6c5152831db2f)
+
+### Day 20: November 7, Thursday
+
+**Today's Progress**: Learned a little more about Chrome extensions tabs, starting to implement the webNavigation API
+
+**Thoughts**: Still need to figure out timing
+
+*Link(s) to work**
+1. [Custom Chrome Extension](https://github.com/vjindal0112/learning-projects/commit/688aa331325d74643d18b188955f70f14718c9cc)
+
+### Day 21: November 9, Saturday
+
+**Today's Progress**: Was able to isolate website name from new tabs added to history.
+
+**Thoughts**: Now have to figure out how to time it, and how to safely store that data.
+
+*Link(s) to work**
+1. [Custom Chrome Extension](https://github.com/vjindal0112/learning-projects/commit/688aa331325d74643d18b188955f70f14718c9cc)
+
+### Day 22: November 10, Sunday
+
+**Today's Progress**: Learned a little more about content scripts and how they are injected into the webpage. Still need to implement.
+
+**Thoughts**: Seems like there is a lot more reading to do if I want to interact with firebase for data storage.
+
+### Day 23: November 12, Tuesday
+
+**Today's Progress**: Made a simple chrome extension that changes the background color of all p tags on a page to purple with a content script.
+
+**Thoughts**: Have a more solid understanding of how content scripts are injected.
+
+*Link(s) to work**
+1. [Learning Projects](https://github.com/vjindal0112/learning-projects/commit/4908ee7112f4365b2fb847a97500d80bdac9c3fc)
