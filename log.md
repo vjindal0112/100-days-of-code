@@ -199,3 +199,12 @@
 
 *Link(s) to work**
 1. [Learning Projects](https://github.com/vjindal0112/learning-projects/commit/4908ee7112f4365b2fb847a97500d80bdac9c3fc)
+
+### Day 24: November 15, Friday
+
+**Today's Progress**: Made a class for each website to keep track of visited sites. Learned about objects and classes in javascript.
+
+**Thoughts**: Still don't understand how to organize the classes into separate files. It doesn't seem to be as simple as importing the file into another higher level file.
+
+*Link(s) to work**
+1. [Learning Projects](https://github.com/vjindal0112/learning-projects/commit/99353ce8a2e0bae821043377208be7f5d49712ce)
