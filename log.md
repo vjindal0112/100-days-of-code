@@ -208,3 +208,12 @@
 
 *Link(s) to work**
 1. [Learning Projects](https://github.com/vjindal0112/learning-projects/commit/99353ce8a2e0bae821043377208be7f5d49712ce)
+
+### Day 25: November 16, Saturday
+
+**Today's Progress**: Added most of the functionality necessary for the class I wrote yesterday. Still have to test it. After much debugging realized that the history API is not the right one for me to use.
+
+**Thoughts**: The history API returns the ID of the history entry not the ID of the tab. Glad I now know to approach this differently.
+
+*Link(s) to work**
+1. [Learning Projects](https://github.com/vjindal0112/learning-projects/commit/2f466202c6a602e1695a8a456f72c049dd009919)
