@@ -217,3 +217,12 @@
 
 *Link(s) to work**
 1. [Learning Projects](https://github.com/vjindal0112/learning-projects/commit/2f466202c6a602e1695a8a456f72c049dd009919)
+
+### Day 26: November 18, Monday
+
+**Today's Progress**: Managed to get tabID, website name, and totalTime tracking somewhat functional.
+
+**Thoughts**: With the current organization, I am having to loop through lists a lot. After thinking about it, I might only need one tabID instead of a list of tabIDs given that there is only ever one active tab. Additionally, tabs.onActivated gives you the tabID every time you switch to a new active tab. I might organize it so that only the active tab has a tabID.
+
+*Link(s) to work**
+1. [Learning Projects](https://github.com/vjindal0112/learning-projects/commit/818553c8d4cc69f36ab32158462563dbb44de5fe)
