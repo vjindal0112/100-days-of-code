@@ -226,3 +226,12 @@
 
 *Link(s) to work**
 1. [Learning Projects](https://github.com/vjindal0112/learning-projects/commit/818553c8d4cc69f36ab32158462563dbb44de5fe)
+
+### Day 27: November 19, Tuesday
+
+**Today's Progress**: Total Time is mostly functional, managed to change websiteItem object so that it tracks only the current tabID instead of all tabIDs in the window.
+
+**Thoughts**: Struggling with getting the current Url in the activated Tab. Spent a while on that, hoping to figure it out tomorrow. Still have to think about data storage.
+
+*Link(s) to work**
+1. [Learning Projects](https://github.com/vjindal0112/learning-projects/commit/9fd8fea0ef36960f2e5c29783e8ac642259bcf11)
