@@ -235,3 +235,12 @@
 
 *Link(s) to work**
 1. [Learning Projects](https://github.com/vjindal0112/learning-projects/commit/9fd8fea0ef36960f2e5c29783e8ac642259bcf11)
+
+### Day 28: November 20, Wednesday
+
+**Today's Progress**: Cleaned up WebsiteItem object, fixed all event handler functionality, timing of websites works!
+
+**Thoughts**: Finally figured out how to get the current Url of the page. It was hard to figure out how to deal with timing with an asynchronous call. Eventually figured out that I can put the functionality I needed into the async call. Big dub today. Now I can move on to figure out how to store the data.
+
+*Link(s) to work**
+1. [Learning Projects](https://github.com/vjindal0112/learning-projects/commit/6fe1625ce79aa1a2cd95f340198a18a381a4472a)
