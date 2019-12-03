@@ -244,3 +244,33 @@
 
 *Link(s) to work**
 1. [Learning Projects](https://github.com/vjindal0112/learning-projects/commit/6fe1625ce79aa1a2cd95f340198a18a381a4472a)
+
+### Day 29: November 24, Sunday
+
+**Today's Progress**: Created a chrome extension with OAuth to firebase. Still have to figure out how I did it.
+
+**Thoughts**: Hoping now I can integrate this framework with Reflect.
+
+*Link(s) to work**
+1. [OAuth Firebase Chrome Extension](https://github.com/vjindal0112/quickstart-js/commit/88d49006fac9c81900baebe6bf55713e02774e24)
+
+### Day 30: November 25, Monday
+
+**Today's Progress**: Changed gears, read about PyTorch, learned what a tensor is.
+
+**Thoughts**: Came across a funny quote: "To deal with hyper-planes in a 14-dimensional space, visualize a 3-D space and say 'fourteen' to yourself very loudly. Everyone does it." -Geoffrey Hinton
+
+### Day 31: November 27, Wednesday
+
+**Today's Progress**: Starting watching 3blue1brown's series on neural networks. Watched the first 3 videos. Got an introduction to backpropagation.
+
+**Thoughts**: This is super interesting stuff. Confusing, but cool.
+
+### Day 32: December 2, Monday
+
+**Today's Progress**: Back to Reflect! Got firebase OAuth to work. Now need to figure out how to push data to the database.
+
+**Thoughts**: Had an amazing Thanksgiving break with friends and family. Reconnected with so many cool people. Excited to get back into Reflect.
+
+*Link(s) to work**
+1. [Learning Projects](https://github.com/vjindal0112/learning-projects/commit/0333adab2f839c6110defea1a0296e469bd59fe0)
